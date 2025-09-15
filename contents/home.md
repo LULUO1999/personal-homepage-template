@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am a PhD student in applied statistics at the School of Mathematics and Statistics, Yunnan University.
 
 #### Email  
 <code>luolu@stu.ynu.edu.cn</code>  
